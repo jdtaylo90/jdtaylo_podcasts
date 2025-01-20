@@ -1,0 +1,20 @@
+<rss version="2.0">
+  <channel>
+    <title>My Podcast</title>
+    <link>https://jdtaylo90.github.io/</link>
+    <description>A personal podcast feed</description>
+    <language>en-us</language>
+    <image>
+      <url>https://jdtaylo90.github.io/cover.jpg</url>
+      <title>My Podcast</title>
+      <link>https://jdtaylo90.github.io/</link>
+    </image>
+    <item>
+      <title>Episode 1</title>
+      <description>Welcome to the first episode!</description>
+      <link>https://drive.google.com/uc?export=download&id=1s2WHiJrS-wK_XG0htsu_nudJ2dJ7zVAE</link>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1s2WHiJrS-wK_XG0htsu_nudJ2dJ7zVAE" length="12345678" type="audio/mpeg" />
+      <pubDate>Mon, 20 Jan 2025 10:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
